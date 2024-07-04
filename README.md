@@ -1,0 +1,1 @@
+This repository contains the implementation of a Seq2Seq model with attention for learning symbolic differentiation of mathematical functions. The model is trained to predict the derivatives of given functions 
